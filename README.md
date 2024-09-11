@@ -1,4 +1,5 @@
 # spell_corrector
-# spell_corrector
-# Spell_corrector
-# Sepll_Corrector
+![screenshot](screenshot/img1.png)
+
+![screenshot](screenshot/img2.png)
+
